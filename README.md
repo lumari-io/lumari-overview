@@ -54,12 +54,29 @@ Your ERP stays the system of record. Lumari handles the execution work around it
 
 ## Why teams use Lumari
 
-- **No supplier portal required.** Suppliers can keep working through email and familiar channels.
-- **Live in weeks.** Lumari maps to existing workflows instead of forcing a long implementation project.
-- **Human approvals where needed.** Teams choose which actions can run automatically and which need sign-off.
-- **Full visibility.** Actions, edits, approvals, and decisions are logged and searchable.
-- **Works with your ERP.** Lumari layers on top of existing systems rather than requiring migration or rip-and-replace.
-- **Gets better with feedback.** Agents learn from corrections, approvals, terminology, and operating patterns over time.
+Teams use Lumari when procurement execution is stuck in email, spreadsheets, PDFs, supplier follow-ups, and ERP edge cases. Lumari helps buyers move work forward, not just search for information.
+
+- **Run RFQs faster.** Create RFQs, attach drawings and specs, invite suppliers, chase missing quotes, extract quote fields, compare responses, and move from quote to award.
+- **Negotiate with better context.** Draft supplier-specific negotiation rounds using price gaps, volume commitments, payment terms, market indices, contract drift, and scorecard signals.
+- **Keep POs moving.** Track PO acknowledgment, promised dates, cargo-ready dates, shipment docs, ASNs, tracking numbers, and confirmed delivery dates.
+- **Manage supplier contracts after signature.** Track renewals, pricing caps, volume tiers, payment terms, delivery SLAs, service levels, and clause drift against actual supplier behavior.
+- **Build supplier scorecards from real work.** Score suppliers on OTIF, on-time delivery, in-full delivery, acknowledgment responsiveness, date revisions, lead-time accuracy, quote response time, quality signals, and contract performance.
+- **Catch exceptions earlier.** Flag late POs, stale acknowledgments, delivery slips, missing compliance docs, invoice mismatches, substitutions, backorders, and supplier performance gaps before they become bigger problems.
+- **Keep humans in control.** Teams decide which actions can run automatically and which need approval. Every action, edit, approval, and decision is logged.
+- **Work with existing systems.** Lumari layers on top of ERPs, email, spreadsheets, docs, and collaboration tools instead of forcing a rip-and-replace project or supplier portal rollout.
+
+## ROI levers
+
+Lumari ROI usually comes from measurable execution improvements:
+
+- **Buyer time recovered:** fewer manual supplier follow-ups, quote chases, status checks, document reviews, and ERP updates.
+- **RFQ cycle-time reduction:** fewer days between RFQ creation, supplier response, quote comparison, negotiation, and award.
+- **Negotiated savings:** better use of competitive bids, volume commitments, market indices, payment terms, freight terms, and supplier performance context.
+- **Contract leakage reduction:** fewer missed volume discounts, pricing-cap breaches, payment-term drifts, late ASN issues, and service-level misses.
+- **Expedite and delay avoidance:** earlier visibility into late POs, CRD slips, missing acknowledgments, shipment risk, and supply shortages.
+- **Invoice and payment accuracy:** fewer duplicate invoices, price mismatches, PO-to-invoice discrepancies, and unresolved supplier disputes.
+- **Supplier performance improvement:** clearer supplier accountability through scorecards, QBR inputs, renewal context, and exception history.
+- **Cleaner ERP data:** more accurate confirmed delivery dates, supplier status, tracking data, quote terms, awarded prices, and audit trails.
 
 ## Common use cases
 
