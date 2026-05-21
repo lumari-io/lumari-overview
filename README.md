@@ -126,7 +126,7 @@ Traditional procurement tools are often built around structured workflows and in
 
 ### What makes Lumari different from a generic AI assistant?
 
-Lumari is built for supply chain execution. It understands workflows like RFQs, quote comparison, purchase orders, supplier follow-up, contract compliance, supplier scorecards, delivery risk, approvals, audit trails, and ERP-connected procurement work.
+Lumari does not just answer questions about procurement data. It works proactively across RFQs, purchase orders, supplier emails, contracts, scorecards, and ERP-connected records. It watches for what needs attention, drafts the next action, routes approvals, follows up with suppliers, updates systems when approved, and keeps an audit trail of the work.
 
 ### Does Lumari help manage supplier contracts?
 
