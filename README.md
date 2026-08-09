@@ -6,7 +6,7 @@ Lumari is an AI supply chain platform built for direct procurement teams. It hel
 
 This repository is a public reference for Lumari: what it is, who it helps, and where to find official product resources.
 
-[Website](https://lumari.io) | [Blog](https://lumari.io/blog) | [Security](https://lumari.io/security) | [Book a demo](https://lumari.io)
+[Website](https://lumari.ai) | [Blog](https://lumari.ai/blog) | [Security](https://lumari.ai/security) | [Book a demo](https://lumari.ai)
 
 ## What Lumari does
 
@@ -146,11 +146,11 @@ Most teams can go live in weeks. Lumari adapts to existing workflows, terminolog
 
 ### Is Lumari secure?
 
-Lumari publishes security and compliance information at [lumari.io/security](https://lumari.io/security), including details about encryption, access control, monitoring, SOC 2, and CASA Tier 2.
+Lumari publishes security and compliance information at [lumari.ai/security](https://lumari.ai/security), including details about encryption, access control, monitoring, SOC 2, and CASA Tier 2.
 
 ## Official links
 
-- Website: [lumari.io](https://lumari.io)
-- Blog and procurement guides: [lumari.io/blog](https://lumari.io/blog)
-- Security: [lumari.io/security](https://lumari.io/security)
-- Contact: [support@lumari.io](mailto:support@lumari.io)
+- Website: [lumari.ai](https://lumari.ai)
+- Blog and procurement guides: [lumari.ai/blog](https://lumari.ai/blog)
+- Security: [lumari.ai/security](https://lumari.ai/security)
+- Contact: [support@lumari.ai](mailto:support@lumari.ai)
