@@ -154,3 +154,4 @@ Lumari publishes security and compliance information at [lumari.ai/security](htt
 - Blog and procurement guides: [lumari.ai/blog](https://lumari.ai/blog)
 - Security: [lumari.ai/security](https://lumari.ai/security)
 - Contact: [support@lumari.ai](mailto:support@lumari.ai)
+- Customers: [lumari.ai/case-studies](https://lumari.ai/case-studies/)
